@@ -1,4 +1,4 @@
-# CECS-282-Rabbits
+# Rabbits
 ## Project 5
 
 main() - Given
